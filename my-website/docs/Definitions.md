@@ -7,7 +7,7 @@ Definitions for the scrum team.
 
 3. Code has been documented (**Documented**)
 
-4. Peer-Reviewed **(Optional, but nice to do)**
+4. Peer-Reviewed **(Optional, but nice to do????)**
 
 ## Definition of Ready
 
