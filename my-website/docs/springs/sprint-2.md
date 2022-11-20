@@ -2,31 +2,13 @@
 title: Sprint 2
 sidebar_position: 2
 ---
+## Sprint Links
 
-## Epics 
-
--[Sites Management API (Management Backend)](https://kelvindtd.atlassian.net/browse/DTD-38)
-
--[Management Web UI (Management Frontend)](https://kelvindtd.atlassian.net/browse/DTD-46)
+### -[Scope changes log](https://kelvindtd.atlassian.net/issues/?jql=issueKey%20in%20(DTD-56%2CDTD-55%2CDTD-57%2CDTD-58%2CDTD-59%2CDTD-60%2CDTD-61%2CDTD-62%2CDTD-40%2CDTD-41%2CDTD-42))
+### -[Incomplete issues](https://kelvindtd.atlassian.net/issues/?jql=issueKey%20in%20(DTD-44%2CDTD-45%2CDTD-47%2CDTD-36%2CDTD-39%2CDTD-51%2CDTD-54))
+### -[Completed issues](https://kelvindtd.atlassian.net/issues/?jql=issueKey%20in%20(DTD-40%2CDTD-41%2CDTD-42%2CDTD-55%2CDTD-56%2CDTD-57%2CDTD-58%2CDTD-59%2CDTD-60%2CDTD-61%2CDTD-62))
 
 
-## User Stories
-
--[Add the feature to Create New Properties](https://kelvindtd.atlassian.net/browse/DTD-40)
-
--[Add the feature to Delete Properties](https://kelvindtd.atlassian.net/browse/DTD-41)
-
--[Add the feature to Update Properties](https://kelvindtd.atlassian.net/browse/DTD-42)
-
--[Add the feature to Create New Cameras](https://kelvindtd.atlassian.net/browse/DTD-57)
-
--[Add the feature to Delete Cameras](https://kelvindtd.atlassian.net/browse/DTD-58)
-
--[Add the feature to Update Cameras](https://kelvindtd.atlassian.net/browse/DTD-59)
-
--[Add the feature to Create New Alarm](https://kelvindtd.atlassian.net/browse/DTD-60)
-
--[Add the feature to Delete Alarms](https://kelvindtd.atlassian.net/browse/DTD-61)
-
--[Add the feature to Update Alarms](https://kelvindtd.atlassian.net/browse/DTD-62)
-
+## Notes
+* Team not familiar with Agile Methods
+* Not well formulated User Stories
