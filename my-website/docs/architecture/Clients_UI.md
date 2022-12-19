@@ -10,4 +10,5 @@ After this verification, the UI will render the app if the user has permissions,
 
 The user has the possibility to see a list of his properties, cameras and alarms associated, and the intrusions verified. Beside this, it's also possible to activate or deactivate a camera or a alarm, and to delete them.  
 
-(screenshot of the client's ui)
+
+![drawing](/img/clientsUI.png)

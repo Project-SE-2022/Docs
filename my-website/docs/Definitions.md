@@ -20,7 +20,7 @@ Definitions for the scrum team.
 * Taking in to account the state of the system and the current sprint goal, user story is
 ready if it can be integrated without setbacks or progress stagnation (incremental value).
 
-* User Story dependencies identified
+* User Story dependencies identified.
 
 
 

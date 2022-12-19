@@ -4,9 +4,10 @@ sidebar_position: 1
 slug: /
 ---
 
-This project take care of the devlopment of a software solution for a security company named Seccom. SecCom is a company that ensures critical buildings are not broken into, through the
-installation and operation of CCTV cameras on-premises.
+In this project we develop a software solution for a security company named Seccom. SecCom is a company that ensures critical buildings are not broken into, through the installation and operation of CCTV cameras on-premises.
 
-This tool has all the documentation needed to understand and to follow our solution roadmap.
+This Document has all the documentation needed to understand and follow our solution roadmap.
 
-(do a brief summary of docossaurus sturcture)
+In the architecture section, you can see a short description of all the microservices in the system. 
+Followed by the sprints section where we have links to the respect sprints in JIRA and sprint impediments in case there were any.
+Finally, some important definitions, such as definition of done and ready.

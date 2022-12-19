@@ -10,4 +10,7 @@ After this verification, the UI will render the app if the user has permissions,
 
 The admin is able to see all properties being monitored, the intrusions that took place, a list of each property cameras and sensors, and all data regarding the platform’s clients. Basically, this UI is used to manage the entire platform
 
-(screenshot of the Management Web UI two pages)
+
+![drawing](/img/managment1.png)
+
+![drawing](/img/managment2.png)
