@@ -3,6 +3,6 @@ title: Diagram
 sidebar_position: 1
 ---
 
-![Arquitetura](/img/arq.png)
+![Architecture](/img/arq.png)
 
-
+(describe workflow ?)
